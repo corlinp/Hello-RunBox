@@ -4,14 +4,14 @@
 
 Running Python code in the cloud on Tenzar RunBox is simple. Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
 
-1. Download the `hello_world.py` file in this folder
+1. Download the `hello_python.py` file in this folder
 2. Import the official [Python image](https://hub.docker.com/_/python/) from Docker Hub. If you're using a framework like PyTorch, you may want to search Docker Hub for a pre-built image.
 ```bash
 tenzar import python
 ```
 3. Run a deployment with the image and code
 ```bash
-tenzar run --image python /path/to/hello_world.py
+tenzar run --image python /path/to/hello_python.py
 ```
 4. Monitor the deployment status with until it is 'running'
 ```bash
@@ -24,7 +24,7 @@ tenzar connect
 6. Run Python
 ```bash
 $ cd /runbox_volumes
-$ python hello_world.py
+$ python hello_python.py
 Hello, Tenzar RunBox!
 ```
 
