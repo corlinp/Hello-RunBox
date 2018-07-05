@@ -2,10 +2,12 @@
 
 *Python is an interpreted high-level programming language for general-purpose programming.*
 
-Running Python code in the cloud on Tenzar RunBox is simple. Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
+Tenzar RunBox can launch deployments with images that have Python and associated frameworks preinstalled. This guide will run a simple 'hello world' program in base Python. If you're using a framework like [PyTorch](/PyTorch), you may want to search Docker Hub for a pre-built image. For simpler libraries, `pip install` will work.
+
+Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
 
 1. Download the `hello_python.py` file in this folder
-2. Import the official [Python image](https://hub.docker.com/_/python/) from Docker Hub. If you're using a framework like PyTorch, you may want to search Docker Hub for a pre-built image.
+2. Import the official [Python image](https://hub.docker.com/_/python/) from Docker Hub.
 ```bash
 tenzar import python
 ```
