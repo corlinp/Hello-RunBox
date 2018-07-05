@@ -1,4 +1,4 @@
-<img src="https://assets.tenzar.com/web/logo-tenzar-main-white-r.png" alt="Tenzar Logo" width="409px" height="80px">
+<img src="https://assets.tenzar.com/web/logo-tenzar-black-r.png" alt="Tenzar Logo" width="409px" height="80px">
 
 # Hello, Tenzar RunBox!
 
