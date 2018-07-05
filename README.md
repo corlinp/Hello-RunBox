@@ -1,3 +1,5 @@
+![Tenzar logo](https://assets.tenzar.com/web/logo-tenzar-main-white-r.png | width=250)
+
 # Hello, Tenzar RunBox!
 
 This repo contains examples of running simple 'hello world' programs in various languages on [Tenzar RunBox](https://www.tenzar.com/runbox/).
