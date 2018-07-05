@@ -1,8 +1,8 @@
-# Python on RunBox
+# PyTorch on RunBox
 
-*Python is an interpreted high-level programming language for general-purpose programming.*
+*PyTorch is a deep learning framework for fast, flexible experimentation in Python.*
 
-RunBox can be used to run PyTorch models and analysis in the cloud. This example will import an image, run a deployment, and run some python code that uses `torch`. Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
+RunBox can be used to run PyTorch models and analysis in the cloud. This example will import an image, run a deployment, and run some Python code that uses `torch`. Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
 
 1. Download the `hello_pytorch.py` file in this folder
 2. Import the [PyTorch image](https://hub.docker.com/r/pytorch/pytorch/) from Docker Hub.
