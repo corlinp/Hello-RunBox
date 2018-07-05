@@ -1,4 +1,4 @@
-<img src="https://assets.tenzar.com/web/logo-tenzar-black-r.png" alt="Tenzar Logo" width="409px" height="80px">
+<img src="https://assets.tenzar.com/web/logo-tenzar-black-r.png" alt="Tenzar Logo" width="303px" height="60px">
 
 # Hello, Tenzar RunBox!
 
@@ -8,7 +8,12 @@ This repo contains examples of running simple 'hello world' programs in various 
 
 The examples in this repo should provide a helpful starting point for running your workloads, especially if you're unfamiliar with Docker images or are new to Tenzar RunBox. Most examples use the [RunBox CLI](https://www.tenzar.com/docs/runbox/overview), but you can accomplish the same using the [web dashboard](dashboard.md).
 
-Preview of the RunBox CLI and Dashboad:
+### Directory
+###### [Hello World in Julia](/Julia)
+
+
+
+### Preview of the RunBox CLI and Dashboad:
 
 ![terminal](https://assets.tenzar.com/web/img-runbox-terminal.png)
 ![dashboard](https://assets.tenzar.com/web/img-runbox-dashboard2.png)
