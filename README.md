@@ -8,7 +8,8 @@ These examples provide a starting point for running workloads, especially for th
 
 ## Directory of Examples
 ### [Julia](/Julia)
- ---
+### [Python](/Python)
+---
 
 If you'd like to make changes, report an error, or add an example, please open a pull request or submit an issue to this repo.
 

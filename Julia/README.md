@@ -2,7 +2,7 @@
 
 *Julia is a high-level, high-performance dynamic programming language for numerical computing.*
 
-Running Julia code in the cloud on Tenzar RunBox is simple. Make sure you have installed the RunBox CLI. The following commands can then be run in your terminal.
+Running Julia code in the cloud on Tenzar RunBox is simple. Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
 
 1. Download the `hello_world.jl` file in this folder
 2. Import the official [Julia image](https://hub.docker.com/_/julia/) from Docker Hub
