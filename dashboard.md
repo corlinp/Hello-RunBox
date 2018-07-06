@@ -12,7 +12,7 @@ Navigate to the 'import' page under 'console' on the left side bar. From there, 
 
 2. Import the script
 
-Back on the import page, choose 'from Volume'. The script can be imported directly from GitHub with the link:  https://raw.githubusercontent.com/corlinp/Hello-RunBox/master/Julia/hello_world.jl
+Back on the import page, choose 'from Volume'. The script can be imported directly from GitHub with the link:  https://raw.githubusercontent.com/corlinp/Hello-RunBox/master/Julia/hello_julia.jl
 
 ![import script](https://user-images.githubusercontent.com/5972540/42342419-dc44af16-804a-11e8-98d4-d6ab2f89666b.png)
 
