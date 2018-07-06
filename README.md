@@ -18,6 +18,8 @@ These examples provide a starting point for running workloads, especially for th
 
 ### [PyTorch](/PyTorch)
 
+### [TensorFlow](/TensorFlow)
+
 ---
 
 If you'd like to make changes, report an error, or add an example, please open a pull request or submit an issue to this repo.
