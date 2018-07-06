@@ -31,7 +31,7 @@ tenzar monitor
 tenzar connect
 ```
 
-6. Run Julia
+6. Run TensorFlow
 
 ```bash
 $ cd /runbox_volumes
