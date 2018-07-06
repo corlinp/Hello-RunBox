@@ -19,7 +19,7 @@ tenzar import tensorflow/tensorflow
 tenzar run --image tensorflow /path/to/hello_tensorflow.py
 ```
 
-4. Monitor the deployment status with until it is 'running'
+4. Monitor the deployment status until it is 'running'
 
 ```bash
 tenzar monitor

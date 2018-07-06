@@ -17,7 +17,7 @@ tenzar import gcc
 tenzar run --image gcc /path/to/hello_cpp.cpp
 ```
 
-4. Monitor the deployment status with until it is 'running'
+4. Monitor the deployment status until it is 'running'
 
 ```bash
 tenzar monitor

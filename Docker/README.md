@@ -30,7 +30,7 @@ tenzar upload --image hello-runbox.tar
 tenzar run --image hello-runbox
 ```
 
-6. Monitor the deployment status with until it is 'running'
+6. Monitor the deployment status until it is 'running'
 
 ```bash
 tenzar monitor

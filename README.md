@@ -14,11 +14,15 @@ These examples provide a starting point for running workloads, especially for th
 
 ### [FORTRAN](Fortran)
 
+### [Java](/Java)
+
 ### [Julia](/Julia)
 
 ### [Python](/Python)
 
 ### [PyTorch](/PyTorch)
+
+### [R](/R)
 
 ### [TensorFlow](/TensorFlow)
 
