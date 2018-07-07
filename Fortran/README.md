@@ -4,7 +4,7 @@ _Fortran is a general-purpose, compiled imperative programming language that is 
 
 Fortran can be run on Tenzar RunBox in a number of ways. For this exampple we will use an Ubuntu deployment and install & run `gfortran` for a simple Fortran 90 program.
 
-Assuming you have installed the RunBox CLI, the following commands can be run in your terminal:
+Assuming you have installed the [RunBox CLI](https://www.tenzar.com/docs/runbox/overview), the following commands can be run in your terminal:
 
 1. Download the `hello_fortran.f90` file in this folder
 2. Import [Ubuntu](https://hub.docker.com/_/ubuntu/) from Docker Hub if you haven't already
