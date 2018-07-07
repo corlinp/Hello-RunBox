@@ -18,6 +18,8 @@ These examples provide a starting point for running workloads, especially for th
 
 ### [Julia](/Julia)
 
+### [Octave](/Octave)
+
 ### [Python](/Python)
 
 ### [PyTorch](/PyTorch)
