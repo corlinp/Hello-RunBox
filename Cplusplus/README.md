@@ -29,7 +29,7 @@ tenzar monitor
 tenzar connect
 ```
 
-6. Run Julia
+6. Run C++
 
 ```bash
 $ cd /runbox_volumes
